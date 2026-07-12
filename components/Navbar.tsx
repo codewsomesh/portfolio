@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { FaDownload, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 export default function Navbar() {
   return (
@@ -63,13 +63,13 @@ export default function Navbar() {
           >
             <FaLinkedin />
           </a>
+
           <a
             href="/resume/Somesh_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
-            className="px-8 py-4 rounded-xl border border-white/10 bg-white/5 backdrop-blur-md hover:border-emerald-400 hover:text-emerald-300 transition flex items-center gap-3"
+            className="hidden md:block bg-emerald-500 hover:bg-emerald-400 text-black font-semibold px-5 py-2 rounded-xl transition duration-300 shadow-lg shadow-emerald-500/20"
           >
-            <FaDownload />
             Resume
           </a>
         </div>

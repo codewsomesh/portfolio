@@ -79,7 +79,9 @@ export default function Hero() {
             </a>
 
             <a
-              href="\resume\Somesh_resume.pdf"
+              href="/resume/Somesh_resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="px-8 py-4 rounded-xl border border-white/10 bg-white/5 backdrop-blur-md hover:border-emerald-400 hover:text-emerald-300 transition flex items-center gap-3"
             >
               <FaDownload />
