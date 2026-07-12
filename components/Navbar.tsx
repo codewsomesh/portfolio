@@ -65,7 +65,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/resume/Somesh_resume.pdf"
             className="hidden md:block bg-emerald-500 hover:bg-emerald-400 text-black font-semibold px-5 py-2 rounded-xl transition duration-300 shadow-lg shadow-emerald-500/20"
           >
             Resume
