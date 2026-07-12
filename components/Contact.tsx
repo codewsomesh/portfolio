@@ -22,7 +22,9 @@ export default function Contact() {
 
         <p className="text-gray-400 mt-8 text-lg max-w-3xl mx-auto leading-8">
           I'm always open to discussing internships, software engineering
-          opportunities, collaborations, or exciting ideas.
+          opportunities, collaborations, or exciting ideas. Feel free to reach
+          out to me via email or connect with me on GitHub and LinkedIn. Let's
+          create something amazing together!
         </p>
 
         <div className="flex justify-center gap-8 mt-14">

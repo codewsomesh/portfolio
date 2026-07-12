@@ -51,10 +51,10 @@ export default function Hero() {
               sequence={[
                 "Full Stack Developer",
                 2000,
-                "AI Enthusiast",
+                "AI/ML Enthusiast",
                 2000,
-                "Next.js Developer",
-                2000,
+                // "Next.js Developer",
+                // 2000,
                 "Problem Solver",
                 2000,
               ]}
@@ -63,10 +63,9 @@ export default function Hero() {
           </div>
 
           <p className="max-w-3xl mx-auto mt-10 text-lg md:text-xl text-gray-400 leading-8">
-            I build modern web applications with clean UI, scalable
-            architecture, and meaningful user experiences. Passionate about AI,
-            Full Stack Development, and solving real-world problems through
-            technology.
+            Building modern web experiences with Full Stack Development while
+            exploring AI/ML, LLMs, and RAG systems. Passionate about creating
+            impactful products in business, sports, and everyday life.
           </p>
 
           <div className="flex flex-wrap justify-center gap-5 mt-12">
@@ -79,7 +78,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/resume/Somesh_resume.pdf"
+              href="/resume/Somesh_Pradhan_resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 rounded-xl border border-white/10 bg-white/5 backdrop-blur-md hover:border-emerald-400 hover:text-emerald-300 transition flex items-center gap-3"

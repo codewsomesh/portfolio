@@ -59,10 +59,10 @@ export default function Education() {
               ensure smooth page transitions and efficient data handling.
             </li>
 
-            <li>
+            {/* <li>
               • Collaborated using Git by creating feature branches, managing
               commits, and participating in pull requests for code review.
-            </li>
+            </li> */}
 
             <li>
               • Gained hands-on experience with Japanese software development

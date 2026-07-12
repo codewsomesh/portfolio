@@ -24,11 +24,13 @@ export default function About() {
         <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-3xl p-10">
           <p className="text-gray-300 text-lg leading-9">
             I'm <span className="text-white font-semibold">Somesh Pradhan</span>
-            , a Computer Science undergraduate specializing in Data Science. I
-            enjoy building modern full-stack web applications, experimenting
-            with Artificial Intelligence, and designing clean user experiences.
-            My goal is to create products that are not only functional, but also
-            visually appealing and enjoyable to use.
+            , a Computer Science undergraduate specializing in Data Science and
+            an aspiring Full Stack Developer. I enjoy building scalable web
+            applications and exploring the latest advancements in Artificial
+            Intelligence, particularly LLMs, RAG systems, and intelligent
+            software. Beyond coding, I'm passionate about leveraging technology
+            to create impactful solutions in business, sports, and everyday life
+            while delivering intuitive and engaging user experiences.
           </p>
         </div>
       </motion.div>
